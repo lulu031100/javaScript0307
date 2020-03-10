@@ -36,7 +36,7 @@ header h1{
 }
 .photo .inner{
     position: absolute; /*　キャプションを画像の上に重ねる*/
-    bottom: 0; /*位置を画像の最下部にj*/
+    bottom: 0; /*位置を画像の最下部に*/
     margin: 0;
     width: 100%;
     background-color: rgba(0,0,0,5);
